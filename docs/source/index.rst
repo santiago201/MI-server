@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Bienvenido a la documentación de MSP (Minecraft Server Project)
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**MSP** es un software hecho para gestionar un servidor de Minecraft en Linux desde la terminal, ofreciendo conexiones e instalaciones con diversos túneles de manera automática.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Revisa la guía :doc:`uso` para obtener una breve introducción al script. Incluída la :ref:`instalación` del servidor.
 
 .. note::
 
-   This project is under active development.
+   Este proyecto aún está bajo desarrollo activo.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   uso
